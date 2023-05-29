@@ -30,7 +30,6 @@ router.delete("/notes/:id", (req, res) => {
   res.redirect('');
 });
 
-// Helper functions to read and save notes
 function getNotes() {
   const dbJson = fs.readFileSync(dbPath, 'utf8');
   return JSON.parse(dbJson);
@@ -43,17 +42,4 @@ function saveNotes(notes) {
 module.exports = router;
 
 
-  /* {
-  "notes": [
-    {
-      "title": "shopping ",
-      "text": "tacos \nlala\n",
-      "id": "cc8ae885-bfe8-48a9-9494-1ffb86bd2b1b"
-    },
-    {
-      "title": "laa",
-      "text": "l68",
-      "id": "c741bff4-51f5-4cac-8d83-d60e8c71898f"
-    }
-  ]
-} */
+  
