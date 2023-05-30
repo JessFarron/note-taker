@@ -2,13 +2,13 @@
 
 Note Taker is an application that allows users to write and save notes. It utilizes an Express.js back end and stores note data in a JSON file. The front end of the application has already been created; your task is to build the back end, connect the two, and deploy the entire application to Heroku.
 
-##Table of Contents
+## Table of Contents
 *[Description](#description)
 *[Installation](#installation)
 *[Usage](#usage)
 *Deployment
 
-##Description
+## Description
 The Note Taker application provides the following features:
 
 1. **Landing Page:** Upon opening the application, users are presented with a landing page that displays a link to the notes page.
@@ -28,7 +28,7 @@ To run the Note Taker application locally, follow these steps:
 `npm start`
 5. Open your web browser and visit http://localhost:3000 or click the link display on terminal to access the Note Taker application.
 
-##Usage
+## Usage
 Once the Note Taker application is running, you can start using it by following these steps:
 
 1. On the landing page, click on the "Get Started" button or the link to the notes page.
