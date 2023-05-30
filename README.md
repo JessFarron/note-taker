@@ -1,4 +1,4 @@
-# Note-taker [![Github license](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+# Note-taker    [![Github license](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 Note Taker is an application that allows users to write and save notes. It utilizes an Express.js back end and stores note data in a JSON file. The front end of the application has already been created; your task is to build the back end, connect the two, and deploy the entire application to Heroku.
 
@@ -6,7 +6,9 @@ Note Taker is an application that allows users to write and save notes. It utili
 * [Description](#description)
 * [Installation](#installation)
 * [Usage](#usage)
-* Deployment
+* [Deployment](#deployment)
+* [Walkthrough Video](#walkthroughvideo)  
+* [References](referencesources)
 
 ## Description
 The Note Taker application provides the following features:
@@ -44,3 +46,7 @@ https://note-taker-js.herokuapp.com/
 
 ## Walkthrough Video 
 [Note-Taker(Express JS).webm](https://github.com/JessFarron/note-taker/assets/126412050/af75f566-c290-4acc-867d-8d1de45ad631)
+
+## Reference sources
+SPARCPLUSTECH. 2022 NOTE TAKER APP EXPRESS.js DEMO [Video] YouTube. Available at: https://www.youtube.com/watch?v=BSVWmsGU4Dc&t=57s&ab_channel=SPARCPLUSTECH [Accessed May 27, 2023].
+CaitlinSwickard (2021). Note-taker-app. Version 1.0.0. Source code repository. Available at: https://github.com/CaitlinSwickard/Note-taker-app [Accessed May 28, 2023].
