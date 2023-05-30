@@ -1,5 +1,5 @@
-# Note-taker
-[![Github license](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+# Note-taker[![Github license](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 Note Taker is an application that allows users to write and save notes. It utilizes an Express.js back end and stores note data in a JSON file. The front end of the application has already been created; your task is to build the back end, connect the two, and deploy the entire application to Heroku.
 
 ##Table of Contents
@@ -40,7 +40,7 @@ Once the Note Taker application is running, you can start using it by following 
 7. To create a new note after viewing an existing note, click on the Write icon in the navigation bar.
 8. 
 ##Deployment
-
+https://note-taker-js.herokuapp.com/
 
 ##Walkthrough Video 
 [Note-Taker(Express JS).webm](https://github.com/JessFarron/note-taker/assets/126412050/af75f566-c290-4acc-867d-8d1de45ad631)
